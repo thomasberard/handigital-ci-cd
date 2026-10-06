@@ -17,7 +17,7 @@ Les 6 sections suivantes sont à compléter au jour 4.
 
 ## 1. Le site
 
-Adresse du site en ligne :
+Adresse du site en ligne : http://localhost:8080/
 
 ## 2. Démarrer Jenkins
 
